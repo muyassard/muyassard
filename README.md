@@ -1,15 +1,15 @@
-# Hi 👋 I'm Muyassar
-I'm a frontend developer from Uzbekistan
+# Hi there 👋, my name is Muyassar
+## I'm a frontend developer from Uzbekista
+![I'm a frontend developer from Uzbekista](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg)
 
-### Hi there 👋, my name is Muyassar
-#### frontend developer
-![frontend developer](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg)
 
-I'm a frontend developer from Uzbekistan
+Skills:  REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / TYPESCRIPT
 
-Skills:  REACT / JS / HTML / CSS / TS/ TAILWIND / BOOTSTRAP
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: muyassarsolijonova@gmail.com 
 
-- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muyassard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muyassar___19/)  
 
 
 
