@@ -4,10 +4,6 @@
 
 - 📫 How to reach me **muyassarsolijonova@gmail.com**
 
-## Connect with me: 
-<a href="https://t.me/MDS328" target="_blank" rel="">
-
-
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" />
 
