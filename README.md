@@ -3,7 +3,7 @@ I'm a frontend developer from Uzbekistan
 
 ### Hi there 👋, my name is Muyassar
 #### frontend developer
-![frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![frontend developer](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg)
 
 I'm a frontend developer from Uzbekistan
 
