@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **muyassarsolijonova@gmail.com**
 
-## Connect with me: <a href="https://t.me/MDS328" target="_blank" rel="">
+## Connect with me: 
+<a href="https://t.me/MDS328" target="_blank" rel="">
 
 
 
