@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muyassar</h1>
-<h3 align="center">I'm a frontend developer from Uzbekistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muyassard&label=Profile%20views&color=0e75b6&style=flat" alt="muyassard" /> </p>
+# Hi 👋, I'm Muyassar
+## I'm a frontend developer from Uzbekistan
 
 - 📫 How to reach me **muyassarsolijonova@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://instagram.com/muyassar___19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muyassar___19" height="30" width="40" /></a>
 </p>
