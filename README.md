@@ -2,7 +2,7 @@
 ## I'm a frontend developer from Uzbekistan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyassard&label=Profile%20views&color=0e75b6&style=flat" alt="muyassard" /> </p>
 
-- 📫 How to reach me **muyassarsolijonova@gmail.com**
+- 📫 my email **muyassarsolijonova@gmail.com**
 
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" />
