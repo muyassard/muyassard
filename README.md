@@ -14,5 +14,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muyassard&show_icons=true&locale=en" alt="muyassard" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muyassard&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muyassard&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muyassard&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muyassard&theme=2077&utcOffset=8)
+
 
 
