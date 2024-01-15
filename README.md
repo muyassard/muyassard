@@ -1,5 +1,5 @@
 # Hi 👋, I'm Muyassar
-## I'm a frontend developer from Uzbekistan
+## I'm frontend student from Uzbekistan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyassard&label=Profile%20views&color=0e75b6&style=flat" alt="muyassard" /> </p>
 
 - 📫 my email **muyassarsolijonova@gmail.com**
