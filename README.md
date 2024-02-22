@@ -19,6 +19,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muyassard&show_icons=true&locale=en" alt="muyassard" /></p>
 
+<p>&nbsp;<img  src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?w=740&t=st=1708586720~exp=1708587320~hmac=8846e66af18c909f8847a82bec7fb655ae1273403a1cdde45f4e16ca5d84eb06" alt="muyassard" /></p>
+
 
 
 [](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muyassard&theme=default)
