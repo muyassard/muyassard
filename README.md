@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **muyassarsolijonova@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/PC/Downloads/Telegram%20Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Web_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82_Muyassar_Komiljonovna_Solijonova_%D0%BE%D1%82_09_02.pdf](file:///C:/Users/PC/Downloads/Telegram%20Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_Web_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82_Muyassar_Komiljonovna_Solijonova_%D0%BE%D1%82_09_02.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
